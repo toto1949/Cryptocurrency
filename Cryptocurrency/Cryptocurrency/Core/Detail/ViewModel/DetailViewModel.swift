@@ -2,7 +2,7 @@
 //  DetailViewModel.swift
 //  Cryptocurrency
 //
-//  Created by Deimante Valunaite on 18/11/2023.
+//  Created by Taoufiq El Moutaouakil  12/4/2024
 //
 
 import Foundation

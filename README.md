@@ -22,8 +22,9 @@ Cryptocurrency App is a cutting-edge iOS application designed to provide users w
 
 ### Screen
 
-https://github.com/DeimanteValunaite/Crypto-App/assets/110168300/ba485ef1-f41d-4a44-a1a3-e0eaa59653e5
-
+<video src="./assdemo.mp4" controls="controls" style="max-width: 50%; height: auto;">
+    Your browser does not support the video tag.
+</video>
 
 ### Contributing
 Contributions to this project are welcome! If you have any ideas for improvements or bug fixes, please open an issue or submit a pull request.
